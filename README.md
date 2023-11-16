@@ -1,14 +1,10 @@
-# Cloud-Engineer-Prep
-
-# Cloud Engineer Basic Interview Questions and Answers
-
 This README includes a series of common interview questions for Cloud Engineer roles along with their respective answers.
 
-## Interview Questions
+## Cloud Engineer Basic Interview Questions and Answers
 
 ### Question 1: How does cloud computing differ from traditional data center operations?
 **Answer:** 
-Cloud computing utilizes remote servers connected to the internet for data storage, processing, and management, whereas traditional data centers rely on physical servers. Cloud computing offers scalability, flexibility, and cost savings compared to traditional data centers.
+Cloud computing utilizes remote servers connected to the Internet for data storage, processing, and management, whereas traditional data centers rely on physical servers. Cloud computing offers scalability, flexibility, and cost savings compared to traditional data centers.
 
 ### Question 2: Can you explain the difference between IaaS, PaaS, and SaaS?
 **Answer:** 
@@ -159,7 +155,7 @@ To ensure optimal VM performance, monitor resource consumption, choose appropria
 **Answer:**
 Challenges include security risks, resource contention, performance issues due to virtualization overhead, disk I/O bottlenecks, network latency, and complexity in management and maintenance.
 
-# Cloud Engineer Intermediate Interview Questions and Answers
+## Cloud Engineer Intermediate Interview Questions and Answers
 
 ### Question 1: What is the difference between lift & shift and refactoring in cloud migration?
 **Answer:** 
